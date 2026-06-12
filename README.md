@@ -2,9 +2,9 @@
 
 Sysadmin & full-stack dev from Cádiz 🇪🇸. I build stuff with Next.js, Astro and PHP mostly. Big fan of Linux, Docker and tinkering with servers at home.
 
-- Studying and working on web stuff while getting into DevOps
-- Arch/Fedora guy, terminal open 24/7
-- Rarely sleep before 2am
+- Working on web projects and getting deeper into DevOps
+- Arch/Fedora, live in the terminal
+- Usually coding past midnight
 
 **Languages & tools I use:**
 
