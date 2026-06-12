@@ -2,9 +2,9 @@
 
 Sysadmin & full-stack dev from Cádiz 🇪🇸. I build stuff with Next.js, Astro and PHP mostly. Big fan of Linux, Docker and tinkering with servers at home.
 
-- 🔭 Currently working on web projects and learning more about DevOps
-- 🐧 Daily driving Arch/Fedora
-- ⚡ I code late at night
+- Studying and working on web stuff while getting into DevOps
+- Arch/Fedora guy, terminal open 24/7
+- Rarely sleep before 2am
 
 **Languages & tools I use:**
 
@@ -14,6 +14,7 @@ Sysadmin & full-stack dev from Cádiz 🇪🇸. I build stuff with Next.js, Astr
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
