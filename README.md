@@ -24,5 +24,3 @@ Sysadmin & full-stack dev from Cádiz 🇪🇸. I build stuff with Next.js, Astr
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-<a href="https://app.daily.dev/jaimetsx"><img src="https://api.daily.dev/devcards/v2/HAiWES3lyBYBoMozUdRwa.png?type=wide&r=x42" width="652" alt="Jaime's Dev Card"/></a>
